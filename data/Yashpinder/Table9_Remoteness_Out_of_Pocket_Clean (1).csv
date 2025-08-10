@@ -1,0 +1,799 @@
+service_year,state,oop_actual,oop_inflation_adjusted,remoteness
+2003,Aus,14.27,24.15,Major cities
+2003,NSW,15.51,26.57,Major cities
+2003,Vic,14.61,24.4,Major cities
+2003,Qld,13.58,22.75,Major cities
+2003,WA,13.81,23.41,Major cities
+2003,SA,11.05,18.35,Major cities
+2003,ACT,17.91,31.16,Major cities
+2004,Aus,15.44,24.19,Major cities
+2004,NSW,16.06,25.39,Major cities
+2004,Vic,15.64,24.24,Major cities
+2004,Qld,15.07,23.48,Major cities
+2004,WA,15.22,23.77,Major cities
+2004,SA,12.89,19.87,Major cities
+2004,ACT,18.58,30.17,Major cities
+2005,Aus,15.26,22.73,Major cities
+2005,NSW,15.46,23.18,Major cities
+2005,Vic,15.46,22.8,Major cities
+2005,Qld,14.97,22.2,Major cities
+2005,WA,15.31,22.71,Major cities
+2005,SA,13.48,19.87,Major cities
+2005,ACT,17.77,27.2,Major cities
+2006,Aus,17.66,25.5,Major cities
+2006,NSW,17.78,25.91,Major cities
+2006,Vic,17.85,25.6,Major cities
+2006,Qld,17.74,25.41,Major cities
+2006,WA,17.98,25.43,Major cities
+2006,SA,14.79,21.28,Major cities
+2006,ACT,20.42,30.61,Major cities
+2007,Aus,19.67,28.26,Major cities
+2007,NSW,19.41,28.03,Major cities
+2007,Vic,19.91,28.68,Major cities
+2007,Qld,19.95,28.46,Major cities
+2007,WA,20.57,28.54,Major cities
+2007,SA,16.28,23.28,Major cities
+2007,ACT,22.36,34.19,Major cities
+2008,Aus,21.62,29.73,Major cities
+2008,NSW,21.12,29.37,Major cities
+2008,Vic,21.82,29.83,Major cities
+2008,Qld,22.09,30.23,Major cities
+2008,WA,23.11,30.36,Major cities
+2008,SA,17.51,24.12,Major cities
+2008,ACT,24.56,36.02,Major cities
+2009,Aus,23.51,31.69,Major cities
+2009,NSW,23.11,31.37,Major cities
+2009,Vic,23.75,31.97,Major cities
+2009,Qld,23.79,31.97,Major cities
+2009,WA,24.74,31.59,Major cities
+2009,SA,19.57,26.64,Major cities
+2009,ACT,27.07,37.42,Major cities
+2010,Aus,25.45,33.83,Major cities
+2010,NSW,24.82,33.41,Major cities
+2010,Vic,25.67,34.0,Major cities
+2010,Qld,25.72,34.2,Major cities
+2010,WA,26.54,33.0,Major cities
+2010,SA,22.06,29.49,Major cities
+2010,ACT,29.85,39.57,Major cities
+2011,Aus,27.16,35.5,Major cities
+2011,NSW,26.41,34.8,Major cities
+2011,Vic,27.45,35.78,Major cities
+2011,Qld,27.43,36.03,Major cities
+2011,WA,28.31,34.47,Major cities
+2011,SA,23.25,30.79,Major cities
+2011,ACT,32.15,42.09,Major cities
+2012,Aus,28.96,36.99,Major cities
+2012,NSW,28.33,36.38,Major cities
+2012,Vic,29.24,37.34,Major cities
+2012,Qld,29.0,37.25,Major cities
+2012,WA,30.16,36.07,Major cities
+2012,SA,24.98,32.24,Major cities
+2012,ACT,34.09,44.37,Major cities
+2013,Aus,30.57,38.36,Major cities
+2013,NSW,30.06,37.79,Major cities
+2013,Vic,30.8,38.65,Major cities
+2013,Qld,30.41,38.36,Major cities
+2013,WA,32.11,37.81,Major cities
+2013,SA,26.32,33.2,Major cities
+2013,ACT,35.51,45.55,Major cities
+2014,Aus,32.01,39.75,Major cities
+2014,NSW,31.52,39.22,Major cities
+2014,Vic,32.33,40.25,Major cities
+2014,Qld,31.8,39.73,Major cities
+2014,WA,33.61,39.43,Major cities
+2014,SA,27.53,34.51,Major cities
+2014,ACT,36.51,46.02,Major cities
+2015,Aus,34.09,42.09,Major cities
+2015,NSW,33.81,41.73,Major cities
+2015,Vic,34.48,42.61,Major cities
+2015,Qld,33.96,42.36,Major cities
+2015,WA,35.42,41.64,Major cities
+2015,SA,28.82,35.96,Major cities
+2015,ACT,38.92,49.14,Major cities
+2016,Aus,35.78,43.86,Major cities
+2016,NSW,35.58,43.51,Major cities
+2016,Vic,36.2,44.39,Major cities
+2016,Qld,35.73,44.23,Major cities
+2016,WA,36.67,43.42,Major cities
+2016,SA,30.51,37.68,Major cities
+2016,ACT,40.87,51.12,Major cities
+2017,Aus,37.45,45.5,Major cities
+2017,NSW,37.11,44.87,Major cities
+2017,Vic,37.84,45.95,Major cities
+2017,Qld,37.67,46.25,Major cities
+2017,WA,38.13,45.25,Major cities
+2017,SA,32.06,39.11,Major cities
+2017,ACT,43.22,53.58,Major cities
+2018,Aus,38.8,46.63,Major cities
+2018,NSW,38.3,45.75,Major cities
+2018,Vic,39.32,47.13,Major cities
+2018,Qld,39.15,47.68,Major cities
+2018,WA,39.27,46.47,Major cities
+2018,SA,33.28,40.1,Major cities
+2018,ACT,44.72,54.93,Major cities
+2019,Aus,39.79,47.06,Major cities
+2019,NSW,39.25,46.19,Major cities
+2019,Vic,40.81,47.97,Major cities
+2019,Qld,40.02,47.91,Major cities
+2019,WA,39.76,46.85,Major cities
+2019,SA,33.69,39.84,Major cities
+2019,ACT,45.65,55.25,Major cities
+2020,Aus,41.34,47.17,Major cities
+2020,NSW,41.0,46.36,Major cities
+2020,Vic,42.47,48.05,Major cities
+2020,Qld,42.06,48.61,Major cities
+2020,WA,40.55,46.68,Major cities
+2020,SA,34.89,40.08,Major cities
+2020,ACT,46.34,54.82,Major cities
+2021,Aus,42.01,46.73,Major cities
+2021,NSW,41.54,45.02,Major cities
+2021,Vic,43.23,48.0,Major cities
+2021,Qld,42.75,48.77,Major cities
+2021,WA,41.4,47.31,Major cities
+2021,SA,35.09,39.83,Major cities
+2021,ACT,47.23,53.57,Major cities
+2022,Aus,42.83,46.13,Major cities
+2022,NSW,42.2,45.33,Major cities
+2022,Vic,44.36,47.71,Major cities
+2022,Qld,43.52,47.03,Major cities
+2022,WA,42.3,45.51,Major cities
+2022,SA,35.24,38.17,Major cities
+2022,ACT,48.69,52.35,Major cities
+2023,Aus,42.7,42.7,Major cities
+2023,NSW,42.75,42.75,Major cities
+2023,Vic,43.84,43.84,Major cities
+2023,Qld,43.11,43.11,Major cities
+2023,WA,42.2,42.2,Major cities
+2023,SA,35.47,35.47,Major cities
+2023,ACT,49.87,49.87,Major cities
+2003,Aus,12.05,20.4,Inner regional
+2003,NSW,12.66,21.68,Inner regional
+2003,Vic,11.85,19.79,Inner regional
+2003,Qld,11.79,19.75,Inner regional
+2003,WA,13.26,22.48,Inner regional
+2003,SA,10.73,17.81,Inner regional
+2003,Tas,11.21,19.82,Inner regional
+2003,ACT,19.07,33.18,Inner regional
+2004,Aus,13.93,21.82,Inner regional
+2004,NSW,14.33,22.65,Inner regional
+2004,Vic,13.9,21.55,Inner regional
+2004,Qld,13.69,21.32,Inner regional
+2004,WA,15.15,23.65,Inner regional
+2004,SA,12.75,19.66,Inner regional
+2004,Tas,13.09,21.29,Inner regional
+2004,ACT,19.3,31.35,Inner regional
+2005,Aus,13.93,20.74,Inner regional
+2005,NSW,13.87,20.8,Inner regional
+2005,Vic,14.04,20.71,Inner regional
+2005,Qld,14.0,20.76,Inner regional
+2005,WA,15.03,22.29,Inner regional
+2005,SA,13.32,19.64,Inner regional
+2005,Tas,13.48,20.97,Inner regional
+2005,ACT,18.38,28.14,Inner regional
+2006,Aus,16.23,23.43,Inner regional
+2006,NSW,16.13,23.5,Inner regional
+2006,Vic,16.2,23.23,Inner regional
+2006,Qld,16.67,23.89,Inner regional
+2006,WA,17.66,24.98,Inner regional
+2006,SA,14.37,20.67,Inner regional
+2006,Tas,16.02,24.26,Inner regional
+2006,ACT,20.72,31.06,Inner regional
+2007,Aus,17.98,25.84,Inner regional
+2007,NSW,17.62,25.45,Inner regional
+2007,Vic,17.57,25.31,Inner regional
+2007,Qld,19.22,27.43,Inner regional
+2007,WA,20.07,27.86,Inner regional
+2007,SA,15.83,22.64,Inner regional
+2007,Tas,17.91,26.84,Inner regional
+2007,ACT,22.28,34.07,Inner regional
+2008,Aus,19.9,27.38,Inner regional
+2008,NSW,19.23,26.75,Inner regional
+2008,Vic,19.24,26.3,Inner regional
+2008,Qld,21.51,29.44,Inner regional
+2008,WA,22.52,29.59,Inner regional
+2008,SA,17.81,24.54,Inner regional
+2008,Tas,20.51,29.27,Inner regional
+2008,ACT,24.57,36.03,Inner regional
+2009,Aus,21.76,29.32,Inner regional
+2009,NSW,20.96,28.45,Inner regional
+2009,Vic,20.84,28.05,Inner regional
+2009,Qld,23.37,31.41,Inner regional
+2009,WA,24.86,31.75,Inner regional
+2009,SA,19.74,26.86,Inner regional
+2009,Tas,23.32,32.51,Inner regional
+2009,ACT,26.91,37.19,Inner regional
+2010,Aus,23.58,31.35,Inner regional
+2010,NSW,22.72,30.58,Inner regional
+2010,Vic,22.34,29.58,Inner regional
+2010,Qld,25.5,33.91,Inner regional
+2010,WA,27.21,33.83,Inner regional
+2010,SA,21.43,28.65,Inner regional
+2010,Tas,25.42,35.18,Inner regional
+2010,ACT,30.09,39.9,Inner regional
+2011,Aus,25.28,33.04,Inner regional
+2011,NSW,24.1,31.77,Inner regional
+2011,Vic,24.05,31.36,Inner regional
+2011,Qld,27.51,36.14,Inner regional
+2011,WA,29.42,35.82,Inner regional
+2011,SA,22.75,30.12,Inner regional
+2011,Tas,27.03,36.38,Inner regional
+2011,ACT,32.22,42.19,Inner regional
+2012,Aus,26.9,34.36,Inner regional
+2012,NSW,25.59,32.86,Inner regional
+2012,Vic,25.29,32.3,Inner regional
+2012,Qld,29.32,37.67,Inner regional
+2012,WA,31.2,37.31,Inner regional
+2012,SA,24.27,31.32,Inner regional
+2012,Tas,29.08,38.43,Inner regional
+2012,ACT,34.16,44.46,Inner regional
+2013,Aus,28.4,35.65,Inner regional
+2013,NSW,27.15,34.14,Inner regional
+2013,Vic,26.4,33.14,Inner regional
+2013,Qld,30.96,39.05,Inner regional
+2013,WA,32.74,38.56,Inner regional
+2013,SA,25.39,32.03,Inner regional
+2013,Tas,30.84,40.38,Inner regional
+2013,ACT,35.89,46.03,Inner regional
+2014,Aus,29.79,36.99,Inner regional
+2014,NSW,28.57,35.55,Inner regional
+2014,Vic,27.67,34.45,Inner regional
+2014,Qld,32.06,40.06,Inner regional
+2014,WA,34.55,40.53,Inner regional
+2014,SA,27.43,34.39,Inner regional
+2014,Tas,32.33,41.89,Inner regional
+2014,ACT,36.75,46.32,Inner regional
+2015,Aus,31.16,38.47,Inner regional
+2015,NSW,29.96,36.98,Inner regional
+2015,Vic,29.13,35.99,Inner regional
+2015,Qld,33.08,41.26,Inner regional
+2015,WA,36.45,42.86,Inner regional
+2015,SA,28.56,35.63,Inner regional
+2015,Tas,33.84,43.28,Inner regional
+2015,ACT,38.88,49.09,Inner regional
+2016,Aus,32.58,39.94,Inner regional
+2016,NSW,31.51,38.53,Inner regional
+2016,Vic,30.51,37.42,Inner regional
+2016,Qld,34.38,42.55,Inner regional
+2016,WA,37.94,44.92,Inner regional
+2016,SA,29.91,36.95,Inner regional
+2016,Tas,35.48,44.9,Inner regional
+2016,ACT,40.87,51.12,Inner regional
+2017,Aus,34.01,41.32,Inner regional
+2017,NSW,33.04,39.96,Inner regional
+2017,Vic,31.77,38.58,Inner regional
+2017,Qld,36.06,44.26,Inner regional
+2017,WA,39.43,46.8,Inner regional
+2017,SA,31.15,37.99,Inner regional
+2017,Tas,37.04,46.39,Inner regional
+2017,ACT,43.14,53.48,Inner regional
+2018,Aus,35.37,42.51,Inner regional
+2018,NSW,34.42,41.12,Inner regional
+2018,Vic,33.18,39.77,Inner regional
+2018,Qld,37.3,45.43,Inner regional
+2018,WA,40.46,47.87,Inner regional
+2018,SA,31.88,38.42,Inner regional
+2018,Tas,38.85,48.13,Inner regional
+2018,ACT,44.49,54.65,Inner regional
+2019,Aus,36.4,43.04,Inner regional
+2019,NSW,35.51,41.79,Inner regional
+2019,Vic,34.22,40.22,Inner regional
+2019,Qld,38.26,45.8,Inner regional
+2019,WA,40.99,48.3,Inner regional
+2019,SA,32.89,38.9,Inner regional
+2019,Tas,40.22,48.48,Inner regional
+2019,ACT,45.78,55.4,Inner regional
+2020,Aus,38.51,43.94,Inner regional
+2020,NSW,37.25,42.12,Inner regional
+2020,Vic,36.34,41.12,Inner regional
+2020,Qld,40.9,47.28,Inner regional
+2020,WA,42.25,48.64,Inner regional
+2020,SA,34.01,39.07,Inner regional
+2020,Tas,42.24,49.69,Inner regional
+2020,ACT,46.84,55.4,Inner regional
+2021,Aus,39.42,43.84,Inner regional
+2021,NSW,38.26,41.47,Inner regional
+2021,Vic,37.29,41.41,Inner regional
+2021,Qld,41.89,47.8,Inner regional
+2021,WA,42.5,48.56,Inner regional
+2021,SA,34.46,39.12,Inner regional
+2021,Tas,43.13,49.85,Inner regional
+2021,ACT,47.66,54.06,Inner regional
+2022,Aus,41.06,44.23,Inner regional
+2022,NSW,39.82,42.77,Inner regional
+2022,Vic,39.17,42.13,Inner regional
+2022,Qld,43.65,47.18,Inner regional
+2022,WA,44.0,47.34,Inner regional
+2022,SA,34.26,37.11,Inner regional
+2022,Tas,45.81,49.83,Inner regional
+2022,ACT,48.9,52.57,Inner regional
+2023,Aus,42.97,42.97,Inner regional
+2023,NSW,42.26,42.26,Inner regional
+2023,Vic,41.21,41.21,Inner regional
+2023,Qld,44.32,44.32,Inner regional
+2023,WA,44.35,44.35,Inner regional
+2023,SA,35.49,35.49,Inner regional
+2023,Tas,49.58,49.58,Inner regional
+2023,ACT,50.78,50.78,Inner regional
+2003,Aus,12.74,21.56,Outer regional
+2003,NSW,12.66,21.68,Outer regional
+2003,Vic,11.48,19.18,Outer regional
+2003,Qld,14.68,24.59,Outer regional
+2003,WA,13.7,23.21,Outer regional
+2003,SA,10.42,17.31,Outer regional
+2003,Tas,9.55,16.88,Outer regional
+2003,NT,20.69,37.65,Outer regional
+2004,Aus,14.84,23.25,Outer regional
+2004,NSW,14.17,22.4,Outer regional
+2004,Vic,13.79,21.38,Outer regional
+2004,Qld,16.33,25.44,Outer regional
+2004,WA,15.76,24.61,Outer regional
+2004,SA,12.75,19.65,Outer regional
+2004,Tas,12.48,20.29,Outer regional
+2004,NT,21.65,36.35,Outer regional
+2005,Aus,14.63,21.78,Outer regional
+2005,NSW,13.8,20.7,Outer regional
+2005,Vic,13.85,20.42,Outer regional
+2005,Qld,15.57,23.09,Outer regional
+2005,WA,15.58,23.11,Outer regional
+2005,SA,12.46,18.37,Outer regional
+2005,Tas,13.46,20.94,Outer regional
+2005,NT,19.93,31.42,Outer regional
+2006,Aus,16.92,24.43,Outer regional
+2006,NSW,15.51,22.61,Outer regional
+2006,Vic,16.36,23.47,Outer regional
+2006,Qld,18.29,26.22,Outer regional
+2006,WA,17.46,24.7,Outer regional
+2006,SA,13.8,19.85,Outer regional
+2006,Tas,15.5,23.48,Outer regional
+2006,NT,23.47,35.0,Outer regional
+2007,Aus,19.02,27.32,Outer regional
+2007,NSW,17.49,25.26,Outer regional
+2007,Vic,17.94,25.85,Outer regional
+2007,Qld,20.59,29.37,Outer regional
+2007,WA,19.29,26.76,Outer regional
+2007,SA,14.85,21.23,Outer regional
+2007,Tas,18.02,27.01,Outer regional
+2007,NT,26.77,37.02,Outer regional
+2008,Aus,21.09,29.01,Outer regional
+2008,NSW,18.91,26.3,Outer regional
+2008,Vic,19.01,25.97,Outer regional
+2008,Qld,22.8,31.2,Outer regional
+2008,WA,21.98,28.88,Outer regional
+2008,SA,16.8,23.14,Outer regional
+2008,Tas,20.04,28.6,Outer regional
+2008,NT,29.72,39.79,Outer regional
+2009,Aus,22.95,30.93,Outer regional
+2009,NSW,20.43,27.73,Outer regional
+2009,Vic,20.53,27.64,Outer regional
+2009,Qld,24.46,32.87,Outer regional
+2009,WA,24.66,31.49,Outer regional
+2009,SA,18.67,25.41,Outer regional
+2009,Tas,22.17,30.91,Outer regional
+2009,NT,32.0,41.7,Outer regional
+2010,Aus,24.56,32.65,Outer regional
+2010,NSW,22.35,30.08,Outer regional
+2010,Vic,21.75,28.81,Outer regional
+2010,Qld,25.82,34.33,Outer regional
+2010,WA,26.29,32.69,Outer regional
+2010,SA,20.57,27.51,Outer regional
+2010,Tas,23.79,32.93,Outer regional
+2010,NT,34.98,46.83,Outer regional
+2011,Aus,26.33,34.41,Outer regional
+2011,NSW,23.54,31.02,Outer regional
+2011,Vic,23.16,30.2,Outer regional
+2011,Qld,27.56,36.19,Outer regional
+2011,WA,28.24,34.38,Outer regional
+2011,SA,22.54,29.84,Outer regional
+2011,Tas,26.11,35.14,Outer regional
+2011,NT,37.67,47.84,Outer regional
+2012,Aus,28.14,35.94,Outer regional
+2012,NSW,25.2,32.37,Outer regional
+2012,Vic,24.83,31.71,Outer regional
+2012,Qld,29.42,37.8,Outer regional
+2012,WA,30.61,36.6,Outer regional
+2012,SA,24.2,31.23,Outer regional
+2012,Tas,28.38,37.51,Outer regional
+2012,NT,39.08,49.11,Outer regional
+2013,Aus,29.71,37.28,Outer regional
+2013,NSW,26.72,33.59,Outer regional
+2013,Vic,25.86,32.46,Outer regional
+2013,Qld,31.11,39.23,Outer regional
+2013,WA,32.54,38.33,Outer regional
+2013,SA,25.69,32.4,Outer regional
+2013,Tas,30.14,39.47,Outer regional
+2013,NT,40.46,50.82,Outer regional
+2014,Aus,31.05,38.55,Outer regional
+2014,NSW,28.17,35.04,Outer regional
+2014,Vic,27.27,33.95,Outer regional
+2014,Qld,32.48,40.58,Outer regional
+2014,WA,34.27,40.2,Outer regional
+2014,SA,26.89,33.71,Outer regional
+2014,Tas,31.98,41.43,Outer regional
+2014,NT,41.05,51.69,Outer regional
+2015,Aus,32.1,39.63,Outer regional
+2015,NSW,29.32,36.19,Outer regional
+2015,Vic,28.87,35.68,Outer regional
+2015,Qld,33.46,41.74,Outer regional
+2015,WA,36.0,42.33,Outer regional
+2015,SA,28.64,35.73,Outer regional
+2015,Tas,31.09,39.76,Outer regional
+2015,NT,43.96,55.41,Outer regional
+2016,Aus,33.33,40.86,Outer regional
+2016,NSW,30.46,37.25,Outer regional
+2016,Vic,30.58,37.5,Outer regional
+2016,Qld,34.61,42.84,Outer regional
+2016,WA,36.96,43.76,Outer regional
+2016,SA,30.11,37.19,Outer regional
+2016,Tas,32.97,41.71,Outer regional
+2016,NT,45.62,56.63,Outer regional
+2017,Aus,34.84,42.33,Outer regional
+2017,NSW,32.13,38.86,Outer regional
+2017,Vic,32.11,38.98,Outer regional
+2017,Qld,36.22,44.46,Outer regional
+2017,WA,38.54,45.74,Outer regional
+2017,SA,31.29,38.16,Outer regional
+2017,Tas,34.67,43.42,Outer regional
+2017,NT,47.59,58.55,Outer regional
+2018,Aus,36.04,43.32,Outer regional
+2018,NSW,33.28,39.75,Outer regional
+2018,Vic,33.65,40.33,Outer regional
+2018,Qld,37.32,45.45,Outer regional
+2018,WA,39.22,46.4,Outer regional
+2018,SA,32.7,39.4,Outer regional
+2018,Tas,36.21,44.86,Outer regional
+2018,NT,49.12,59.35,Outer regional
+2019,Aus,36.95,43.7,Outer regional
+2019,NSW,34.87,41.03,Outer regional
+2019,Vic,34.27,40.28,Outer regional
+2019,Qld,38.09,45.6,Outer regional
+2019,WA,39.85,46.96,Outer regional
+2019,SA,34.29,40.55,Outer regional
+2019,Tas,37.0,44.6,Outer regional
+2019,NT,48.36,57.74,Outer regional
+2020,Aus,38.75,44.22,Outer regional
+2020,NSW,36.44,41.2,Outer regional
+2020,Vic,36.2,40.95,Outer regional
+2020,Qld,39.78,45.98,Outer regional
+2020,WA,41.08,47.29,Outer regional
+2020,SA,36.11,41.48,Outer regional
+2020,Tas,38.87,45.71,Outer regional
+2020,NT,49.04,56.75,Outer regional
+2021,Aus,39.27,43.68,Outer regional
+2021,NSW,37.18,40.29,Outer regional
+2021,Vic,36.84,40.91,Outer regional
+2021,Qld,40.2,45.87,Outer regional
+2021,WA,41.48,47.4,Outer regional
+2021,SA,36.45,41.38,Outer regional
+2021,Tas,39.61,45.77,Outer regional
+2021,NT,51.79,60.24,Outer regional
+2022,Aus,40.58,43.7,Outer regional
+2022,NSW,39.4,42.32,Outer regional
+2022,Vic,39.06,42.01,Outer regional
+2022,Qld,41.96,45.34,Outer regional
+2022,WA,43.61,46.92,Outer regional
+2022,SA,38.43,41.63,Outer regional
+2022,Tas,41.64,45.29,Outer regional
+2022,NT,36.37,39.32,Outer regional
+2023,Aus,42.8,42.8,Outer regional
+2023,NSW,41.85,41.85,Outer regional
+2023,Vic,41.59,41.59,Outer regional
+2023,Qld,43.97,43.97,Outer regional
+2023,WA,45.59,45.59,Outer regional
+2023,SA,40.63,40.63,Outer regional
+2023,Tas,44.87,44.87,Outer regional
+2023,NT,38.2,38.2,Outer regional
+2003,Aus,14.45,24.45,Remote
+2003,NSW,14.42,24.71,Remote
+2003,Vic,9.44,15.76,Remote
+2003,Qld,15.83,26.52,Remote
+2003,WA,14.98,25.39,Remote
+2003,SA,11.41,18.94,Remote
+2003,Tas,10.88,19.24,Remote
+2003,NT,17.67,32.16,Remote
+2004,Aus,16.28,25.51,Remote
+2004,NSW,16.09,25.44,Remote
+2004,Vic,11.07,17.16,Remote
+2004,Qld,16.42,25.59,Remote
+2004,WA,16.73,26.12,Remote
+2004,SA,14.13,21.78,Remote
+2004,Tas,13.25,21.56,Remote
+2004,NT,20.08,33.7,Remote
+2005,Aus,16.06,23.92,Remote
+2005,NSW,15.88,23.81,Remote
+2005,Vic,12.63,18.62,Remote
+2005,Qld,15.38,22.81,Remote
+2005,WA,16.78,24.87,Remote
+2005,SA,14.74,21.73,Remote
+2005,Tas,14.84,23.08,Remote
+2005,NT,18.89,29.78,Remote
+2006,Aus,18.74,27.05,Remote
+2006,NSW,18.33,26.71,Remote
+2006,Vic,13.98,20.05,Remote
+2006,Qld,18.02,25.82,Remote
+2006,WA,20.34,28.77,Remote
+2006,SA,15.97,22.98,Remote
+2006,Tas,17.2,26.04,Remote
+2006,NT,21.75,32.44,Remote
+2007,Aus,21.44,30.8,Remote
+2007,NSW,20.59,29.73,Remote
+2007,Vic,15.47,22.29,Remote
+2007,Qld,20.32,28.99,Remote
+2007,WA,23.74,32.94,Remote
+2007,SA,17.84,25.51,Remote
+2007,Tas,19.19,28.77,Remote
+2007,NT,24.78,34.27,Remote
+2008,Aus,23.36,32.13,Remote
+2008,NSW,21.98,30.57,Remote
+2008,Vic,16.68,22.8,Remote
+2008,Qld,22.35,30.58,Remote
+2008,WA,26.39,34.68,Remote
+2008,SA,19.3,26.59,Remote
+2008,Tas,20.2,28.82,Remote
+2008,NT,25.3,33.88,Remote
+2009,Aus,27.07,36.48,Remote
+2009,NSW,24.09,32.7,Remote
+2009,Vic,17.98,24.2,Remote
+2009,Qld,24.67,33.15,Remote
+2009,WA,32.66,41.7,Remote
+2009,SA,21.7,29.54,Remote
+2009,Tas,21.38,29.8,Remote
+2009,NT,27.62,36.0,Remote
+2010,Aus,28.75,38.22,Remote
+2010,NSW,26.59,35.79,Remote
+2010,Vic,17.88,23.68,Remote
+2010,Qld,26.24,34.9,Remote
+2010,WA,34.23,42.57,Remote
+2010,SA,23.14,30.93,Remote
+2010,Tas,23.58,32.64,Remote
+2010,NT,29.2,39.1,Remote
+2011,Aus,30.38,39.71,Remote
+2011,NSW,28.67,37.79,Remote
+2011,Vic,19.98,26.05,Remote
+2011,Qld,27.97,36.75,Remote
+2011,WA,35.38,43.08,Remote
+2011,SA,24.59,32.56,Remote
+2011,Tas,24.69,33.23,Remote
+2011,NT,32.05,40.7,Remote
+2012,Aus,32.04,40.92,Remote
+2012,NSW,29.95,38.47,Remote
+2012,Vic,22.63,28.9,Remote
+2012,Qld,29.88,38.39,Remote
+2012,WA,36.94,44.17,Remote
+2012,SA,26.04,33.6,Remote
+2012,Tas,25.67,33.93,Remote
+2012,NT,33.57,42.18,Remote
+2013,Aus,34.22,42.95,Remote
+2013,NSW,31.08,39.08,Remote
+2013,Vic,25.37,31.85,Remote
+2013,Qld,31.73,40.02,Remote
+2013,WA,39.12,46.07,Remote
+2013,SA,28.53,35.98,Remote
+2013,Tas,27.84,36.46,Remote
+2013,NT,36.39,45.7,Remote
+2014,Aus,35.43,43.99,Remote
+2014,NSW,32.23,40.09,Remote
+2014,Vic,27.31,34.0,Remote
+2014,Qld,32.37,40.44,Remote
+2014,WA,40.65,47.68,Remote
+2014,SA,29.57,37.07,Remote
+2014,Tas,31.55,40.88,Remote
+2014,NT,38.16,48.05,Remote
+2015,Aus,36.02,44.48,Remote
+2015,NSW,33.82,41.74,Remote
+2015,Vic,27.83,34.38,Remote
+2015,Qld,32.74,40.83,Remote
+2015,WA,40.57,47.7,Remote
+2015,SA,30.6,38.18,Remote
+2015,Tas,31.86,40.74,Remote
+2015,NT,40.06,50.5,Remote
+2016,Aus,37.35,45.79,Remote
+2016,NSW,34.83,42.59,Remote
+2016,Vic,28.4,34.83,Remote
+2016,Qld,34.53,42.75,Remote
+2016,WA,41.5,49.14,Remote
+2016,SA,31.51,38.92,Remote
+2016,Tas,34.35,43.47,Remote
+2016,NT,41.26,51.22,Remote
+2017,Aus,38.78,47.11,Remote
+2017,NSW,35.48,42.91,Remote
+2017,Vic,33.45,40.62,Remote
+2017,Qld,36.59,44.92,Remote
+2017,WA,42.91,50.92,Remote
+2017,SA,32.89,40.13,Remote
+2017,Tas,36.37,45.56,Remote
+2017,NT,41.91,51.55,Remote
+2018,Aus,39.66,47.67,Remote
+2018,NSW,35.7,42.65,Remote
+2018,Vic,36.19,43.38,Remote
+2018,Qld,37.95,46.22,Remote
+2018,WA,43.28,51.21,Remote
+2018,SA,34.48,41.55,Remote
+2018,Tas,38.66,47.89,Remote
+2018,NT,41.93,50.67,Remote
+2019,Aus,40.43,47.81,Remote
+2019,NSW,37.77,44.45,Remote
+2019,Vic,35.4,41.61,Remote
+2019,Qld,38.65,46.28,Remote
+2019,WA,43.9,51.73,Remote
+2019,SA,36.25,42.87,Remote
+2019,Tas,39.83,48.01,Remote
+2019,NT,41.99,50.13,Remote
+2020,Aus,42.29,48.26,Remote
+2020,NSW,38.72,43.78,Remote
+2020,Vic,38.08,43.09,Remote
+2020,Qld,41.14,47.55,Remote
+2020,WA,44.91,51.7,Remote
+2020,SA,38.99,44.79,Remote
+2020,Tas,40.72,47.9,Remote
+2020,NT,42.97,49.72,Remote
+2021,Aus,43.15,48.0,Remote
+2021,NSW,41.93,45.44,Remote
+2021,Vic,41.64,46.24,Remote
+2021,Qld,42.17,48.11,Remote
+2021,WA,45.53,52.03,Remote
+2021,SA,38.85,44.1,Remote
+2021,Tas,42.51,49.13,Remote
+2021,NT,44.8,52.12,Remote
+2022,Aus,44.42,47.84,Remote
+2022,NSW,45.05,48.39,Remote
+2022,Vic,45.75,49.2,Remote
+2022,Qld,45.23,48.89,Remote
+2022,WA,46.49,50.02,Remote
+2022,SA,38.95,42.19,Remote
+2022,Tas,45.33,49.31,Remote
+2022,NT,45.01,48.66,Remote
+2023,Aus,47.23,47.23,Remote
+2023,NSW,49.65,49.65,Remote
+2023,Vic,47.69,47.69,Remote
+2023,Qld,48.15,48.15,Remote
+2023,WA,48.35,48.35,Remote
+2023,SA,43.56,43.56,Remote
+2023,Tas,47.2,47.2,Remote
+2023,NT,46.77,46.77,Remote
+2003,Aus,14.8,25.04,Very remote
+2003,NSW,13.59,23.28,Very remote
+2003,Qld,15.28,25.6,Very remote
+2003,WA,15.6,26.44,Very remote
+2003,SA,11.75,19.51,Very remote
+2003,Tas,15.24,26.96,Very remote
+2003,NT,17.77,32.33,Very remote
+2004,Aus,15.74,24.66,Very remote
+2004,NSW,15.13,23.92,Very remote
+2004,Qld,15.65,24.39,Very remote
+2004,WA,16.36,25.55,Very remote
+2004,SA,13.31,20.51,Very remote
+2004,Tas,17.71,28.8,Very remote
+2004,NT,19.66,33.0,Very remote
+2005,Aus,15.6,23.23,Very remote
+2005,NSW,15.13,22.68,Very remote
+2005,Qld,14.2,21.07,Very remote
+2005,WA,16.92,25.09,Very remote
+2005,SA,14.14,20.85,Very remote
+2005,Tas,16.98,26.41,Very remote
+2005,NT,18.69,29.46,Very remote
+2006,Aus,17.69,25.54,Very remote
+2006,NSW,17.36,25.3,Very remote
+2006,Qld,15.39,22.06,Very remote
+2006,WA,20.28,28.69,Very remote
+2006,SA,14.95,21.51,Very remote
+2006,Tas,19.76,29.92,Very remote
+2006,NT,21.37,31.87,Very remote
+2007,Aus,19.99,28.72,Very remote
+2007,NSW,20.29,29.3,Very remote
+2007,Qld,17.69,25.24,Very remote
+2007,WA,22.38,31.05,Very remote
+2007,SA,15.96,22.82,Very remote
+2007,Tas,22.8,34.18,Very remote
+2007,NT,24.14,33.37,Very remote
+2008,Aus,23.04,31.69,Very remote
+2008,NSW,20.62,28.67,Very remote
+2008,Qld,21.06,28.82,Very remote
+2008,WA,26.03,34.2,Very remote
+2008,SA,16.85,23.22,Very remote
+2008,Tas,25.59,36.52,Very remote
+2008,NT,26.96,36.1,Very remote
+2009,Aus,26.32,35.47,Very remote
+2009,NSW,21.56,29.27,Very remote
+2009,Qld,22.69,30.49,Very remote
+2009,WA,30.74,39.25,Very remote
+2009,SA,18.14,24.68,Very remote
+2009,Tas,28.59,39.86,Very remote
+2009,NT,28.84,37.58,Very remote
+2010,Aus,28.8,38.29,Very remote
+2010,NSW,24.5,32.98,Very remote
+2010,Qld,25.39,33.76,Very remote
+2010,WA,33.13,41.19,Very remote
+2010,SA,18.64,24.92,Very remote
+2010,Tas,28.75,39.79,Very remote
+2010,NT,30.58,40.95,Very remote
+2011,Aus,30.26,39.55,Very remote
+2011,NSW,25.04,33.0,Very remote
+2011,Qld,28.24,37.1,Very remote
+2011,WA,33.47,40.75,Very remote
+2011,SA,19.51,25.83,Very remote
+2011,Tas,32.71,44.02,Very remote
+2011,NT,32.94,41.84,Very remote
+2012,Aus,32.63,41.68,Very remote
+2012,NSW,28.7,36.87,Very remote
+2012,Qld,29.63,38.07,Very remote
+2012,WA,37.07,44.33,Very remote
+2012,SA,20.24,26.11,Very remote
+2012,Tas,33.45,44.2,Very remote
+2012,NT,34.77,43.7,Very remote
+2013,Aus,34.54,43.35,Very remote
+2013,NSW,31.17,39.19,Very remote
+2013,Qld,30.67,38.69,Very remote
+2013,WA,40.41,47.6,Very remote
+2013,SA,21.41,27.0,Very remote
+2013,Tas,35.83,46.92,Very remote
+2013,NT,36.36,45.67,Very remote
+2014,Aus,35.78,44.43,Very remote
+2014,NSW,28.54,35.5,Very remote
+2014,Qld,32.82,41.0,Very remote
+2014,WA,41.13,48.25,Very remote
+2014,SA,22.56,28.29,Very remote
+2014,Tas,38.32,49.65,Very remote
+2014,NT,37.95,47.78,Very remote
+2015,Aus,37.01,45.7,Very remote
+2015,NSW,38.68,47.73,Very remote
+2015,Qld,33.6,41.9,Very remote
+2015,WA,42.37,49.81,Very remote
+2015,SA,25.15,31.38,Very remote
+2015,Tas,36.63,46.85,Very remote
+2015,NT,39.95,50.36,Very remote
+2016,Aus,38.39,47.06,Very remote
+2016,NSW,32.36,39.57,Very remote
+2016,Qld,34.74,43.0,Very remote
+2016,WA,43.87,51.94,Very remote
+2016,SA,26.96,33.3,Very remote
+2016,Tas,39.85,50.42,Very remote
+2016,NT,41.34,51.31,Very remote
+2017,Aus,39.78,48.32,Very remote
+2017,NSW,34.64,41.89,Very remote
+2017,Qld,35.63,43.74,Very remote
+2017,WA,45.18,53.62,Very remote
+2017,SA,29.37,35.82,Very remote
+2017,Tas,40.74,51.03,Very remote
+2017,NT,44.02,54.15,Very remote
+2018,Aus,40.68,48.89,Very remote
+2018,NSW,37.3,44.56,Very remote
+2018,Qld,36.76,44.77,Very remote
+2018,WA,45.27,53.56,Very remote
+2018,SA,31.06,37.42,Very remote
+2018,Tas,50.59,62.68,Very remote
+2018,NT,44.2,53.42,Very remote
+2019,Aus,41.23,48.75,Very remote
+2019,NSW,40.14,47.24,Very remote
+2019,Qld,37.59,45.01,Very remote
+2019,WA,45.82,53.99,Very remote
+2019,SA,32.94,38.96,Very remote
+2019,Tas,44.34,53.44,Very remote
+2019,NT,43.88,52.39,Very remote
+2020,Aus,44.08,50.3,Very remote
+2020,NSW,41.56,47.0,Very remote
+2020,Qld,42.19,48.76,Very remote
+2020,WA,46.37,53.38,Very remote
+2020,SA,37.54,43.13,Very remote
+2020,Tas,47.42,55.77,Very remote
+2020,NT,44.75,51.78,Very remote
+2021,Aus,44.99,50.05,Very remote
+2021,NSW,45.3,49.09,Very remote
+2021,Qld,44.83,51.14,Very remote
+2021,WA,46.24,52.84,Very remote
+2021,SA,38.17,43.33,Very remote
+2021,Tas,44.69,51.65,Very remote
+2021,NT,48.36,56.25,Very remote
+2022,Aus,46.43,50.01,Very remote
+2022,NSW,49.65,53.32,Very remote
+2022,Qld,46.19,49.92,Very remote
+2022,WA,47.63,51.25,Very remote
+2022,SA,40.95,44.36,Very remote
+2022,Tas,49.95,54.33,Very remote
+2022,NT,45.7,49.4,Very remote
+2023,Aus,48.9,48.9,Very remote
+2023,NSW,53.02,53.02,Very remote
+2023,Qld,48.73,48.73,Very remote
+2023,WA,50.64,50.64,Very remote
+2023,SA,43.55,43.55,Very remote
+2023,Tas,40.66,40.66,Very remote
+2023,NT,46.75,46.75,Very remote
