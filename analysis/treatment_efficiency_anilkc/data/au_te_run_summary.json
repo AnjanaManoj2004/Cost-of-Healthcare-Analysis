@@ -1,0 +1,10 @@
+{
+  "rows_in_big": 12000,
+  "files": {
+    "raw": "au_treatment_efficiency_raw_big.csv",
+    "full": "au_te_full_by_treatment_state_year.csv",
+    "state_summary": "au_te_state_summary.csv",
+    "sensitivity": "au_te_sensitivity.csv",
+    "final": "au_te_final_state_ranking.csv"
+  }
+}
