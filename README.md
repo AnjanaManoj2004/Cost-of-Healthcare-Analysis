@@ -8,9 +8,6 @@ The following final analysis outputs and documentation were added:
 
 ###  Visual Output Charts
 - Location: `/output/`
-- Files:
-  - `nominal_vs_real_growth_2018_2023.png`
-  - `trend_annotated_expenditure.png`
 - Description: Time series and decomposition charts highlighting healthcare expenditure growth and cost patterns
 
 ---
